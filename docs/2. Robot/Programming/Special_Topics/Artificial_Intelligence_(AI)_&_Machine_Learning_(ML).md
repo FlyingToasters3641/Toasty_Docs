@@ -3,7 +3,7 @@
 !!! note
     The response below was generated via ChatGPT3.5
 
-Artificial Intelligence (AI) and Machine Learning (ML) are pivotal technologies revolutionizing the field of robotics. As integral components of modern robotics teams, these disciplines empower robots to perceive, learn, decide, and act autonomously, enhancing their capabilities far beyond traditional programmed instructions.
+Artificial Intelligence (AI) and Machine Learning (ML) are pivotal technologies revolutionizing the field of robotics. As integral components of modern robotics teams, these disciplines empower robots to perceive, learn, decide, and act autonomously, enhancing their capabilities far beyond traditional programmed instructions.fdsalkjhfdSAJFDsa
 
 ## Overview
 
