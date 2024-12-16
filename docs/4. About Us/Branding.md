@@ -3,14 +3,6 @@
 !!! warning
     This page is a work in progress.
 
-## Top Branding Examples
-
-[Team 254: The Cheesy Poofs](https://www.team254.com/resources/identity/)
-
-[FRC 1538, The Holy Cows](https://team1538.com/site/resources/2015BrandStandards.pdf)
-
-[FRC 7461, Sushi Squad](https://www.figma.com/file/szsqQtUDAc3NKs78IyqqCP/Sushi-Squad-Design-Initiative?type=design&node-id=0-1&mode=design)
-
 ## Team Colors
 
 ### Primary (Blue)
@@ -62,3 +54,11 @@ Orange on Blue
 - 2014
 
 ## Google Slides Template
+
+## Top Branding Examples
+
+[Team 254: The Cheesy Poofs](https://www.team254.com/resources/identity/)
+
+[FRC 1538, The Holy Cows](https://team1538.com/site/resources/2015BrandStandards.pdf)
+
+[FRC 7461, Sushi Squad](https://www.figma.com/file/szsqQtUDAc3NKs78IyqqCP/Sushi-Squad-Design-Initiative?type=design&node-id=0-1&mode=design)
