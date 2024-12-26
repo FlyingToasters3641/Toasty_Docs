@@ -3,7 +3,7 @@
 !!! warning
     This page is a work in progress.
 
-During events, students will watch matches and enter in data into tablets by taping buttons on the screen.
+During events, students will watch matches and enter data into tablets by taping buttons on the screen.
 
 There are four tabs when scouting:
 - Auto
@@ -21,7 +21,7 @@ The TeleOp tab has everything for majority of the match. This would include piec
 
 ## Endgame
 
-The Endgame tab has everything for the end of the match. This would include any addinal scoring during the end of the match, such as hanging.
+The Endgame tab has everything for the end of the match. This would include any additional scoring during the end of the match, such as hanging.
 
 ## Evaluation/Submission
 
