@@ -1,5 +1,16 @@
 # Belts and Pulleys
+Belts and pulleys, like gears and chain and sprockets, are a method of power transmission. It consists of two main parts; The belts and the pulleys. The belt, which is a flexible line/loop of material, like rubber, which have "teeth" that are able to engage with a pulley with corresponding teeth. Belts are also light and thus more efficient than chain, and in most cases do not need tensioning. 
 
+Belt and pulleys are very good for power transmission across long distances because of the simplicity of the design, only requiring pulleys on each end and a belt spanning between them. The flexible nature of the belts themselves also allow them to be used in mechanisms like elevators, where pulleys loop back and forth from the top and bottom of the elevator. Other common uses include powering rollers, due to their nature of the output spinning in the same direction of the input, and inside swerve drives because of their accuracy and good engagement. 
 ## Belts
-
+The most common belts in FRC are HTD timing belts, having a pitch - the distance between teeth on the belt - of 5 mm. The two most common widths are 9mm (for lower torque applications) and 15mm (for higher torque applications). They are mainly sold at intervals of 5 teeth, and places like WCP sell from 30 teeth up to 300. 
 ## Pulleys
+In order to transfer this power into a shaft, pulleys have a bore, or cutout, to slide a shaft inside to spin with the pulley. The most common bores are for 1/2 inch hex shafts, or bores for motor shafts themselves (Kraken, Falcon, etc.).
+Common numbers of teeth include 12(for motor shafts), 15, 18, 24, 30, and 36 for both 9mm and 15 mm thicknesses
+## Design 
+The most important things to consider when designing belt and pulley systems is the c-c, or center to center, distance between the center of the pulleys. This determines where your shafts may end up, and where your bearing holes will be, etc. This can be very easy to determine with either the WCP belt calculator (https://wcproducts.com/pages/calculator-belt), or more parametrically, the Origin Cube Featurescript (https://cad.onshape.com/documents/321c197a842fc5f1a29e6621/w/fc3cdd5ca7edcd93e02f13cc/e/2cfe24ac6426e0f1b6455954). The WCP Calc is pretty intuitive, plugging in desired pulley sizes and desired c-c distance and getting the closest result. The Origin Cube is preferred for design because it allows you to stay within Onshape and get the same results. It also allows you to capture intention, because the values for pulley sizes and c-c distances are captured within the dimension. ![image](https://github.com/user-attachments/assets/14bcce1e-a386-4337-8190-e9fbf2c59f85)
+Image taken from FRCDesign.org
+
+To use the origin cube featurescript, insert the cube by clicking on the feature, this has to be THE FIRST THING YOU DO in an Onshape part studio. Then, lay out your two points and dimension them, but instead of typing numbers into the dimension, type #BeltCTC_5mm([# of teeth of belt], [# of teeth of your first pulley], [# of teeth of second pulley]). An example is shown above. 
+## Resources
+If you want to learn more, you are encouraged to check out: https://docs.wcproducts.com/frc-build-system/belts-chain-and-gears/belts-and-pulleys#gt2-belts-and-pulleys-product-page and https://www.frcdesign.org/learning-course/stage1/1B/belts/
