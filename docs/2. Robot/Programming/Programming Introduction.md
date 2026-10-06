@@ -24,6 +24,6 @@
 - Learn to read documentation. There's a lot of FRC resources out there with plenty of examples to learn from
 - LEARN FROM OTHER TEAMS. Every team does their software differently, and they might do something better than us
 
-## Where do I start
+## Where do I start?
 
 Go to [the learning introduction page](Getting%20Started/Intro.md) to start learning software. Remember to ask questions if you are confused.
