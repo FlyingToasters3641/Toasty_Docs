@@ -1,4 +1,4 @@
-##  Getting Started
+#  Getting Started
 
 Welcome to the software team! This section is designed to have you working on real programming as smooth as possible. It provides a guidelines path to learning FRC Software, as well as some starter projects to guide your journey. There will also be links to other resources to assist you.
 
@@ -73,4 +73,4 @@ After you finish the project you can add extra features to keep testing yourself
 - Gives a short guide if the user types "help"
 - Add more operations (mean, square root, absolute value)
 
-After you feel comfortable with java, it's time to start actual work on the robot! If you are using your own computer, make sure to download all the required tools to build your own robot code. Start with either path generation or button mapping to work on the robot
+After you feel comfortable with java, it's time to start actual work on the robot! If you are using your own computer, make sure to [download all the required tools ](Installation.md)to build your own robot code. Start with either [path generation](Path-Generation.md) or [button mapping](Button-Mapping.md) to work on the robot
